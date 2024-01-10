@@ -1,3 +1,3 @@
-Juego desarrollado en  Python  y con la libreria de PyGame. 
+Juego desarrollado en  Python  con la libreria de PyGame. 
 Programacion Orientada a Objetos.
 
